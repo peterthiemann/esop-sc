@@ -2,15 +2,21 @@
 
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
-<xsl:template match="/page">
+<xsl:template match="/">
   <html>
-  <body>
-  <h1><xsl:value-of select="title"/></h1>
-  <xsl:for-each select="section">
-    <h2><xsl:value-of select="section/title"/></h2>
-  </xsl:for-each>
-  </body>
+    <body>
+      <xsl:apply-templates/>
+    </body>
   </html>
+</xsl:template>
+
+<xsl:template match="page">
+  <h1><xsl:value-of select="title"/></h1>
+  <xsl:apply-templates select="section"/>
+</xsl:template>
+
+<xsl:template match="title">
+    <h2><xsl:value-of select="."/></h2>
 </xsl:template>
 
 </xsl:stylesheet>
