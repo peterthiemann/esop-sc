@@ -19,4 +19,11 @@
     <h2><xsl:value-of select="."/></h2>
 </xsl:template>
 
+<xsl:template match="link|a">
+  <a>
+    <xsl:copy-of select="@*"/>
+    <xsl:value-of/>
+  </a>
+</xsl:template>
+
 </xsl:stylesheet>
