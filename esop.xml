@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<page encoding="UTF-8" name="esop">
+<title>European Symposium on Programming (ESOP)</title>
+<section>
+<title>
+The conference
+</title>
+ESOP is a member conference of the <a href="http://etaps.org/">European Joint Conferences on Theory and Practice of Software</a> (ETAPS), which is the primary European forum for academic and industrial researchers working on topics relating to Software Science.
+<p/> 
+ESOP is devoted to fundamental issues in the specification, design, analysis, and implementation of programming languages and systems. ESOP seeks contributions on all aspects of programming language research including, but not limited to, the following areas:
+<ul>
+    <li>Programming paradigms and styles: functional programming, object-oriented programming, aspect-oriented programming, logic programming, constraint programming, extensible programming languages, domain-specific languages, synchronous and real-time programming languages;</li>
+    <li>Methods and tools to write and specify programs and languages: programming techniques, logical foundations, denotational semantics, operational semantics, meta programming, module systems, language-based security;</li>
+    <li>
+    Methods and tools for reasoning about programs: type systems, abstract interpretation, program verification, testing;</li>
+    <li>
+    Methods and tools for implementation: program transformations, rewriting systems, partial evaluation, experimental evaluations, virtual machines, intermediate languages, run-time environments;</li>
+    <li>
+    Concurrency and distribution: process algebras, concurrency theory, parallel programming, service-oriented computing, distributed and mobile languages.</li>
+</ul>
+
+Contributions bridging the gap between theory and practice are particularly welcome.
+
+<section><title>Submission Guidelines</title>
+
+Papers must be written in English, unpublished and not submitted for publication elsewhere. The proceedings are published in the Springer-Verlag Lecture Notes in Computer Science series.
+Submissions must be in PDF format, formatted in the LNCS style and be at most 25 pages long. Papers longer than 25 pages are rejected without review. 
+</section>
+<section>
+<img alt="new" src="img/new.gif"/>
+<title>ESOP Collected Papers in TOPLAS</title>
+ESOP has an agreement with the <a href="http://toplas.acm.org">ACM
+Transactions on Programming Languages and Systems</a> to produce an
+issue of the journal collecting selected papers of the conference. The
+PC Chair of ESOP has the task to determine whether among the accepted
+papers there are enough of them that would match both the <a
+href="http://toplas.acm.org/authors.cfm#acceptance-criteria">
+acceptance criteria</a> and the <a
+href="http://www.acm.org/publications/policies/simultaneous-submissions">prior
+publication policy</a> of TOPLAS. In January, the authors of the
+selected papers will be invited to prepare a revised and expanded
+version of their work to be submitted to TOPLAS right after the
+conference.  In order to ensure rapid decision and, in case of
+acceptance, timely publication, the PC Chair of ESOP will forward  the reviews of the papers to
+TOPLAS. The papers will follow the normal
+TOPLAS reviewing process but TOPLAS will grant them a speedier
+treatment so that the composition of the TOPLAS issue will be known
+before and announced on the website of the next ESOP edition.
+</section>
+
+
+</section>
+
+
+<section>
+<title><fr>Comité de Pilotage</fr><en>Steering Committee</en></title>
+The Steering Committee (SC) is formed by six members: three permanent members, including the SC Chair, elected for at most six years by the steering committee itself; three rotating members, formed by the Program Committee (PC) Chairs of the previous, current, and next editions of ESOP. In case of several co-chairs they will count collectively as a single member. In case one of the permanent members is also a rotating member then the PC Chair of the two editions before sits in the SC.  
+The SC must assolve essentially three tasks:
+<ol>
+<li> Select right after the <i>n</i>-th edition of ECOOP the PC Chairs of the <i>(n+2)</i>-th edition </li>
+<li> Elect the new permanent members and SC Chair to replace members whose mandate has ended</li>
+<li> Ensure the quality and criteria of the selection process over the different editions.</li>
+</ol>
+The current composition of the Steering Committee is
+<ul>
+<li> <a href="http://www.pps.univ-paris-diderot.fr/~gc">Giuseppe Castagna</a> (SC Chair since 2011)</li>
+<li> <a href="http://www.ccs.neu.edu/people/faculty/member/jan-vitek/">Jan Vitek</a> (Permanent member since 2014)</li>
+<li> <a href="http://homepages.inf.ed.ac.uk/wadler/">Philip Wadler</a> (Permanent member since 2011)</li>
+<li> <a href="http://www2.informatik.uni-freiburg.de/~thiemann">Peter Thiemann</a> (PC Chair 2016)</li>
+<li> <a href="http://www.cs.ox.ac.uk/people/hongseok.yang/Public/Home.html">Hongseok Yang</a> (PC Chair 2017)</li>
+<li> <a href="http://www.ccs.neu.edu/home/amal">Amal Ahmed</a> (PC Chair 2018)</li>
+</ul>
+  The Steering Committee of ESOP was created in 1998, when the ETAPS
+  cluster was created with ESOP as one of the key conference.  Before
+  that ESOP was a biannual conference and was looked after by <link
+  href="http://www.rw.cdl.uni-saarland.de/people/wilhelm.shtml" noicon="true">Reinhard
+  Wilhelm</link>, one of the founding fathers of ESOP. Since its creation the ESOP Steering Committee was chaired by:
+    <ul>
+    <li><link href="http://lbtweb.pbworks.com/w/page/52117907/Hanne%20Riis%20Nielson" noicon="true">Hanne Riis Nielson</link> (1998-2007)</li>
+    <li><link href="https://www.imperial.ac.uk/people/c.hankin/research.html" noicon="true">Christopher Hankin</link> (2007-2011)</li>
+    <li> <link href="http://www.pps.univ-paris-diderot.fr/~gc" noicon="true">Giuseppe Castagna</link> (2011-present)</li>
+  </ul>
+</section>
+
+<section>
+<title><fr>Président du Comité de Programme</fr><en>Program Committee Chair</en></title>
+The Program Committee (PC) Chair is responsible for selecting the
+members of the PC, organizing the selection process, and preparing the
+final program and the proceedings.  The PC Chair has great latitude in
+organizing her/his tasks. However, since ESOP is part of ETAPS, the PC
+Chair must abide some common rules. In particular she/he:
+<ul>
+<li>must propose to the ETAPS Steering Committee the composition of
+the Program Committee and some substitute members <i>before</i>
+contacting them. This is necessary to let the ETAPS SC verify whether
+there is any overlap on the PC's of the six main conferences composing
+ETAPS.</li>
+<li>must <i>strictly</i> adhere to the deadlines set by the ETAPS
+Steering Committee. In particular she/he must not extend the
+submission, rebuttal and final version deadlines, and must strictly
+respect the dates of notification and the dates for sending to the ETAPS SC the proposals
+of PC members, invited speaker, and paper nominations (see below).</li>
+<li>must enforce the ETAPS multiple submission policy</li>
+<li>must comply with the decision of the ETAPS SC Chair on the maximum
+number of accepted papers (usually the minimum between 33% of the
+submissions and the number of slots available for the conference).</li>
+<li>must choose with the PC an invited speaker for ESOP</li>
+<li>must decide with her/his Program Committee whether among the accepted papers there enough of them that would match the <a href="http://toplas.acm.org/authors.cfm#acceptance-criteria"> acceptance criteria</a> and the <a href="http://www.acm.org/publications/policies/simultaneous-submissions">prior publication policy</a> of TOPLAS and, if so, handle the preparation of a <i>ESOP collected papers</i> issue of TOPLAS (see timetable below).</li> 
+<li>must take part in the selection of the two ETAPS unifying speaker</li>
+<li>must nominate papers for the EAPLS, EATCS and EASST Best Paper awards</li>
+<li>must be present at the conference </li>
+<li>must prepare a conference report to be presented in person at the ETAPS steering committee</li>
+<li>must seat in the ETAPS SC for two years and in the ESOP SC for three years</li>
+<li>Finally the PC Chair of ESOP X must sit in the committees of the ETAPS (X+1) "PhD dissertation award" and the ETAPS (X+3) "Test of the time award"</li>
+</ul>
+The PC Chair is advised to consult the following <a href="http://www.pps.univ-paris-diderot.fr/~gc/papers/pc-handbook.pdf">Handbook</a> where she/he can find useful information to organize the selection process. The PC Chair is also advised to add the PC Chair of the following year to the PC, even though she/he will be designated after the CFP are printed and distributed.
+<p/>
+See also the <a href="http://en.wikipedia.org/wiki/European_Symposium_on_Programming">Wikipedia page on ESOP</a>.
+
+</section>
+
+<section>
+<title> Timetable for ESOP nn </title>
+<ul>
+<li><b>After ESOP nn-2 (right after summer break)</b>: ESOP SC chooses the ESOP nn PC Chair and
+designates her/him as representative for ESOP in the ETAPS SC</li>
+
+<li><b>Fall nn-2</b> PC chair proposes PC members and ETAPS SC
+comments on the proposals; ideally, PC chair finalizes the PC by
+November.</li>
+
+<li><b>Late Fall nn-2</b>: ETAPS SC proposes, debates and elects
+unifying speakers; ideally, unifying speakers are confirmed by the end
+of September nn.</li>
+
+<li><b>Early Winter nn-2:</b> PC chair proposes ESOP invited speaker, 
+SC comments on the proposal, and then PC
+chair invites the speaker. Ideally, the ESOP invited speaker is
+confirmed by the end of October.</li>
+
+<li><b>Early Winter nn-2</b>: PC chair proposes to ETAPS SC the text
+for the call for papers, PC chair fixes the text by early
+January.</li>
+
+<li><b>Early October nn-1</b>: Deadline for submission.</li> 
+
+<li><b>October/November nn-1</b>: ETAPS SC chair decides maximum
+number of papers that can be accepted for each conference, based on
+submission rates</li>
+
+<li><b>Mid December nn-1:</b> Notifications.</li>
+
+<li><b>Mid December nn-1:</b>
+     The PC Chair and the PC determine whether
+     there are enough candidates for TOPLAS submission and, if so,
+     sends to TOPLAS Editor in Chief (EIC)
+     a list of papers for approval.</li>
+
+<li><b>Late December nn-1:</b> PC Chair proposes sessions; ideally the final program is finalized before Christmas. PC chair nominates papers for the EAPLS, EATCS and EASST Best Paper awards.</li>
+
+<li><b>January nn:</b> Camera ready version.</li>
+
+<li><b>End of January nn:</b>
+      PC Chair invites authors of selected papers to submit
+      an extended and revised version of their paper to the TOPLAS
+      submission site by the end of April nn</li>
+
+<li><b>March/April nn:</b> ETAPS</li>
+      
+<li><b>April nn:</b> 
+      PC Chair sends the reviews of the submitted papers to TOPLAS EIC.
+      TOPLAS EIC dispatches the papers to the associated editors
+      together with the reviews and with the recommendation that
+      the whole acceptance process <b>MUST</b> be completed before
+      <b>March nn+1</b> or the papers
+      would not be included in the "collected papers" issue.</li>
+
+<li><b>March nn+1:</b>
+      All accepted papers are collected in a single TOPLAS issue
+      and announced on the ESOP nn+1 website.</li>
+</ul>
+</section>
+
+<section>
+  <title>Past and forthcoming editions</title>
+  <table>
+<tr><th>Edition</th>	<th>Place</th>	                <th>Program Chair(s)</th>	<th>Acceptance rate</th></tr>
+<tr><td>ESOP 2018</td>	<td>Thessaloniki, Greece</td>   <td>Amal Ahmed</td>	        <td></td></tr>
+<tr><td>ESOP 2017</td>	<td>Uppsala, Sweden</td>        <td>Hongseok Yang</td>	        <td>36/112</td></tr>
+<tr><td>ESOP 2016</td>	<td>Eindhoven, The Netherlands</td><td>Peter Thiemann</td>	<td>29/89</td></tr>
+<tr><td>ESOP 2015</td>	<td>London, UK</td>	        <td>Jan Vitek</td>	        <td>33/113</td></tr>
+<tr><td>ESOP 2014</td>	<td>Grenoble, France</td>       <td>Zhong Shao</td>	        <td>27/109</td></tr>
+<tr><td>ESOP 2013</td>	<td>Rome, Italy</td>	        <td>Matthias Felleisen, Philippa Gardner</td>	<td>31/120</td></tr>
+<tr><td>ESOP 2012</td>	<td>Tallinn, Estonia</td>	<td>Helmut Seidl</td>	        <td>28/92</td></tr>
+<tr><td>ESOP 2011</td>	<td>Saarbrücken, Germany</td>	<td>Gilles Barthe</td>	        <td>24/93</td></tr>
+<tr><td>ESOP 2010</td>	<td>Paphos, Cyprus</td>	        <td>Andrew D. Gordon</td>	<td>30/121</td></tr>
+<tr><td>ESOP 2009</td>	<td>York, United Kingdom</td>	<td>Giuseppe Castagna</td>	<td>26/98</td></tr>
+<tr><td>ESOP 2008</td>	<td>Budapest, Hungary</td>	<td>Sophia Drossopoulou</td>	<td>27/104</td></tr>
+<tr><td>ESOP 2007</td>	<td>Braga, Portugal</td>	<td>Rocco De Nicola</td>	<td>34/136</td></tr>
+<tr><td>ESOP 2006</td>	<td>Vienna, Austria</td>	<td>Peter Sestoft</td>	        <td>21/87</td></tr>
+<tr><td>ESOP 2005</td>	<td>Edinburgh, UK</td>	        <td>Shmuel Sagiv</td>	        <td>29/114</td></tr>
+<tr><td>ESOP 2004</td>	<td>Barcelona, Spain</td>	<td>David A. Schmidt</td>	<td>27/118</td></tr>
+<tr><td>ESOP 2003</td>	<td>Warsaw, Poland</td>	        <td>Pierpaolo Degano</td>	<td>27/99</td></tr>
+<tr><td>ESOP 2002</td>	<td>Grenoble, France</td>	<td>Daniel Le Métayer</td>	<td>21/73</td></tr>
+<tr><td>ESOP 2001</td>	<td>Genova, Italy</td>	        <td>David Sands</td>	        <td>26/76</td></tr>
+<tr><td>ESOP 2000</td>	<td>Berlin, Germany</td>	<td>Gert Smolka</td>	        <td>26/84</td></tr>
+<tr><td>ESOP 1999</td>	<td>Amsterdam, The Netherlands</td><td>S. Doaitse Swierstra</td><td>18/44</td></tr>
+<tr><td>ESOP 1998</td>	<td>Lisbon, Portugal</td>	<td>Chris Hankin</td>	        <td>17/59</td></tr>
+<tr><td>ESOP 1996</td>	<td>Linköping, Sweden</td>	<td>Hanne Riis Nielson</td>	<td>23/64</td></tr>
+<tr><td>ESOP 1994</td>	<td>Edinburgh, UK</td>	        <td>Donald Sannella</td>	<td>31/110</td></tr>
+<tr><td>ESOP 1992</td>	<td>Rennes, France</td>	        <td>Bernd Krieg-Brückner</td>	<td>18/40</td></tr>
+<tr><td>ESOP 1990</td>	<td>Copenhagen, Denmark</td>	<td>Neil D. Jones</td>	        <td>24/75</td></tr>
+<tr><td>ESOP 1988</td>	<td>Nancy, France</td>	        <td>Harald Ganzinger</td>	<td>23/75</td></tr>
+<tr><td>ESOP 1986</td>	<td>Saarbrücken, Germany</td>	<td>Bernard Robinet, Reinhard Wilhelm</td><td>28/100</td></tr>
+</table>
+  
+</section>
+
+
+<section>
+<title>Contact</title>
+ <link href="http://www.irif.fr/~gc">Giuseppe Castagna</link>: <link href="http://www.irif.fr" noicon="true">IRIF</link>, Université Paris Diderot.
+</section>
+
+</page>
