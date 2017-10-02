@@ -6,8 +6,9 @@
 <title>
 The conference
 </title>
+<p>
 ESOP is a member conference of the <a href="http://etaps.org/">European Joint Conferences on Theory and Practice of Software</a> (ETAPS), which is the primary European forum for academic and industrial researchers working on topics relating to Software Science.
-<p/> 
+</p> 
 ESOP is devoted to fundamental issues in the specification, design, analysis, and implementation of programming languages and systems. ESOP seeks contributions on all aspects of programming language research including, but not limited to, the following areas:
 <ul>
     <li>Programming paradigms and styles: functional programming, object-oriented programming, aspect-oriented programming, logic programming, constraint programming, extensible programming languages, domain-specific languages, synchronous and real-time programming languages;</li>
@@ -54,7 +55,7 @@ before and announced on the website of the next ESOP edition.
 
 
 <section>
-<title><fr>Comité de Pilotage</fr><en>Steering Committee</en></title>
+<title>Steering Committee</title>
 The Steering Committee (SC) is formed by six members: three permanent members, including the SC Chair, elected for at most six years by the steering committee itself; three rotating members, formed by the Program Committee (PC) Chairs of the previous, current, and next editions of ESOP. In case of several co-chairs they will count collectively as a single member. In case one of the permanent members is also a rotating member then the PC Chair of the two editions before sits in the SC.  
 The SC must assolve essentially three tasks:
 <ol>
@@ -84,7 +85,7 @@ The current composition of the Steering Committee is
 </section>
 
 <section>
-<title><fr>Président du Comité de Programme</fr><en>Program Committee Chair</en></title>
+<title>Program Committee Chair</title>
 The Program Committee (PC) Chair is responsible for selecting the
 members of the PC, organizing the selection process, and preparing the
 final program and the proceedings.  The PC Chair has great latitude in
@@ -114,8 +115,9 @@ submissions and the number of slots available for the conference).</li>
 <li>must seat in the ETAPS SC for two years and in the ESOP SC for three years</li>
 <li>Finally the PC Chair of ESOP X must sit in the committees of the ETAPS (X+1) "PhD dissertation award" and the ETAPS (X+3) "Test of the time award"</li>
 </ul>
+<p>
 The PC Chair is advised to consult the following <a href="http://www.pps.univ-paris-diderot.fr/~gc/papers/pc-handbook.pdf">Handbook</a> where she/he can find useful information to organize the selection process. The PC Chair is also advised to add the PC Chair of the following year to the PC, even though she/he will be designated after the CFP are printed and distributed.
-<p/>
+</p>
 See also the <a href="http://en.wikipedia.org/wiki/European_Symposium_on_Programming">Wikipedia page on ESOP</a>.
 
 </section>
@@ -186,6 +188,7 @@ submission rates</li>
   <title>Past and forthcoming editions</title>
   <table>
 <tr><th>Edition</th>	<th>Place</th>	                <th>Program Chair(s)</th>	<th>Acceptance rate</th></tr>
+<tr><td>ESOP 2019</td>	<td>XXX</td>   <td>Luis Caires</td>	        <td></td></tr>
 <tr><td>ESOP 2018</td>	<td>Thessaloniki, Greece</td>   <td>Amal Ahmed</td>	        <td></td></tr>
 <tr><td>ESOP 2017</td>	<td>Uppsala, Sweden</td>        <td>Hongseok Yang</td>	        <td>36/112</td></tr>
 <tr><td>ESOP 2016</td>	<td>Eindhoven, The Netherlands</td><td>Peter Thiemann</td>	<td>29/89</td></tr>
@@ -220,7 +223,10 @@ submission rates</li>
 
 <section>
 <title>Contact</title>
- <link href="http://www.irif.fr/~gc">Giuseppe Castagna</link>: <link href="http://www.irif.fr" noicon="true">IRIF</link>, Université Paris Diderot.
+ <link href="http://www.informatik.uni-freiburg.de/~thiemann">Peter
+ Thiemann</link>: <link href="http://www.informatik.uni-freiburg.de/"
+ noicon="true">Institut für Informatik</link>,
+ Albert-Ludwigs-Universität Freiburg.
 </section>
 
 </page>
