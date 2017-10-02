@@ -4,6 +4,9 @@
 
 <xsl:template match="/">
   <html>
+    <head>
+      <title><xsl:value-of select="page/title"/></title>
+    </head>
     <body>
       <xsl:apply-templates/>
     </body>
