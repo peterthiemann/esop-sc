@@ -9,7 +9,12 @@ The conference
 <p>
 ESOP is a member conference of the <a href="http://etaps.org/">European Joint Conferences on Theory and Practice of Software</a> (ETAPS), which is the primary European forum for academic and industrial researchers working on topics relating to Software Science.
 </p> 
-ESOP is devoted to fundamental issues in the specification, design, analysis, and implementation of programming languages and systems. ESOP seeks contributions on all aspects of programming language research including, but not limited to, the following areas:
+<p>
+ESOP is devoted to fundamental issues in the specification, design,
+analysis, and implementation of programming languages and
+systems. ESOP seeks contributions on all aspects of programming
+language research including, but not limited to, the following areas:
+</p>
 <ul>
     <li>Programming paradigms and styles: functional programming, object-oriented programming, aspect-oriented programming, logic programming, constraint programming, extensible programming languages, domain-specific languages, synchronous and real-time programming languages;</li>
     <li>Methods and tools to write and specify programs and languages: programming techniques, logical foundations, denotational semantics, operational semantics, meta programming, module systems, language-based security;</li>
@@ -20,24 +25,31 @@ ESOP is devoted to fundamental issues in the specification, design, analysis, an
     <li>
     Concurrency and distribution: process algebras, concurrency theory, parallel programming, service-oriented computing, distributed and mobile languages.</li>
 </ul>
-
+<p>
 Contributions bridging the gap between theory and practice are particularly welcome.
-
-<section><title>Submission Guidelines</title>
-
-Papers must be written in English, unpublished and not submitted for publication elsewhere. The proceedings are published in the Springer-Verlag Lecture Notes in Computer Science series.
-Submissions must be in PDF format, formatted in the LNCS style and be at most 25 pages long. Papers longer than 25 pages are rejected without review. 
+</p>
+<section>
+  <title>Submission Guidelines</title>
+<p>
+Papers must be written in English, unpublished and not submitted for
+publication elsewhere. The proceedings are published with  Springer-Verlag in the Lecture Notes in Computer Science series.
+Submissions must be in PDF format, formatted in the LNCS style and be
+at most 25 pages long. A bibliography of up to two pages may be
+added. Additional material intended for the reviewers, but not for
+publication in the final version may be placed in a clearly marked appendix.
+Papers violating these constraints are rejected without review.
+</p>
 </section>
 <section>
 <img alt="new" src="img/new.gif"/>
 <title>ESOP Collected Papers in TOPLAS</title>
-ESOP has an agreement with the <a href="http://toplas.acm.org">ACM
+<p>
+ESOP has an agreement with <a href="http://toplas.acm.org">ACM
 Transactions on Programming Languages and Systems</a> to produce an
 issue of the journal collecting selected papers of the conference. The
 PC Chair of ESOP has the task to determine whether among the accepted
 papers there are enough of them that would match both the <a
-href="http://toplas.acm.org/authors.cfm#acceptance-criteria">
-acceptance criteria</a> and the <a
+href="http://toplas.acm.org/authors.cfm#acceptance-criteria">acceptance criteria</a> and the <a
 href="http://www.acm.org/publications/policies/simultaneous-submissions">prior
 publication policy</a> of TOPLAS. In January, the authors of the
 selected papers will be invited to prepare a revised and expanded
@@ -47,7 +59,8 @@ acceptance, timely publication, the PC Chair of ESOP will forward  the reviews o
 TOPLAS. The papers will follow the normal
 TOPLAS reviewing process but TOPLAS will grant them a speedier
 treatment so that the composition of the TOPLAS issue will be known
-before and announced on the website of the next ESOP edition.
+before the next ESOP edition. It will be announced on its website.
+</p>
 </section>
 
 
@@ -56,22 +69,35 @@ before and announced on the website of the next ESOP edition.
 
 <section>
 <title>Steering Committee</title>
-The Steering Committee (SC) is formed by six members: three permanent members, including the SC Chair, elected for at most six years by the steering committee itself; three rotating members, formed by the Program Committee (PC) Chairs of the previous, current, and next editions of ESOP. In case of several co-chairs they will count collectively as a single member. In case one of the permanent members is also a rotating member then the PC Chair of the two editions before sits in the SC.  
-The SC must assolve essentially three tasks:
+<p>
+The Steering Committee (SC) is formed by six members: three permanent
+members, including the SC Chair, elected for at most six years by the
+steering committee itself; three rotating members, formed by the
+Program Committee (PC) Chairs of the previous, current, and next
+editions of ESOP. In case of several co-chairs they will count
+collectively as a single member. In case one of the permanent members
+is also a rotating member then the PC Chair of the two editions before
+sits in the SC.
+</p>
+<p>
+  The SC must perform essentially three tasks:
+</p>
 <ol>
-<li> Select right after the <i>n</i>-th edition of ECOOP the PC Chairs of the <i>(n+2)</i>-th edition </li>
-<li> Elect the new permanent members and SC Chair to replace members whose mandate has ended</li>
+<li> Select the PC Chairs of the <i>(n+2)</i>-th edition right after the <i>n</i>-th edition of ECOOP. </li>
+<li> Elect new permanent members and SC Chair to replace members whose
+mandate has ended. </li>
 <li> Ensure the quality and criteria of the selection process over the different editions.</li>
 </ol>
 The current composition of the Steering Committee is
 <ul>
-<li> <a href="http://www.irif.fr/~gc">Giuseppe Castagna</a> (past SC Chair 2011-2017)</li>
-<li> <a href="http://www.ccs.neu.edu/people/faculty/member/jan-vitek/">Jan Vitek</a> (Permanent member since 2014)</li>
-<li> <a href="http://homepages.inf.ed.ac.uk/wadler/">Philip Wadler</a> (Permanent member since 2011)</li>
-<li> <a href="http://www2.informatik.uni-freiburg.de/~thiemann">Peter
-Thiemann</a> (PC Chair 2016, SC Chair since 2017)</li>
-<li> <a href="http://www.cs.ox.ac.uk/people/hongseok.yang/Public/Home.html">Hongseok Yang</a> (PC Chair 2017)</li>
 <li> <a href="http://www.ccs.neu.edu/home/amal">Amal Ahmed</a> (PC Chair 2018)</li>
+<li> <a href="https://www.doc.ic.ac.uk/~pg/">Philippa Gardner</a>
+(Permament member since 2017)</li>
+<li> <a href="http://www.cs.mcgill.ca/~bpientka/">Brigitte Pientka</a>
+(Permament member since 2017)</li>
+<li> <a href="http://www2.informatik.uni-freiburg.de/~thiemann">Peter Thiemann</a> (PC Chair 2016, SC Chair since 2017)</li>
+<li> <a href="http://www.ccs.neu.edu/people/faculty/member/jan-vitek/">Jan Vitek</a> (Permanent member since 2014)</li>
+<li> <a href="http://www.cs.ox.ac.uk/people/hongseok.yang/Public/Home.html">Hongseok Yang</a> (PC Chair 2017)</li>
 </ul>
   The Steering Committee of ESOP was created in 1998, when the ETAPS
   cluster was created with ESOP as one of the key conference.  Before
@@ -90,11 +116,13 @@ Thiemann</link> (2017-present)</li>
 
 <section>
 <title>Program Committee Chair</title>
+<p>
 The Program Committee (PC) Chair is responsible for selecting the
 members of the PC, organizing the selection process, and preparing the
 final program and the proceedings.  The PC Chair has great latitude in
 organizing her/his tasks. However, since ESOP is part of ETAPS, the PC
 Chair must abide some common rules. In particular she/he:
+</p>
 <ul>
 <li>must propose to the ETAPS Steering Committee the composition of
 the Program Committee and some substitute members <i>before</i>
@@ -122,8 +150,19 @@ submissions and the number of slots available for the conference).</li>
 <p>
 The PC Chair is advised to consult the following <a href="http://www.irif.fr/~gc/papers/pc-handbook.pdf">Handbook</a> where she/he can find useful information to organize the selection process. The PC Chair is also advised to add the PC Chair of the following year to the PC, even though she/he will be designated after the CFP are printed and distributed.
 </p>
-See also the <a href="http://en.wikipedia.org/wiki/European_Symposium_on_Programming">Wikipedia page on ESOP</a>.
+<p>
+See also the <a
+href="http://en.wikipedia.org/wiki/European_Symposium_on_Programming">Wikipedia
+page on ESOP</a>.
+</p>
+</section>
 
+<section><title>Past members</title>
+<ul>
+  <li> <a href="http://www.irif.fr/~gc">Giuseppe Castagna</a> (SC
+  Chair 2011-2017)</li>
+  <li> <a href="http://homepages.inf.ed.ac.uk/wadler/">Philip Wadler</a> (Permanent member 2011-2017)</li>
+</ul>
 </section>
 
 <section>
