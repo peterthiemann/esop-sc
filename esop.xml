@@ -151,6 +151,27 @@ submissions and the number of slots available for the conference).</li>
 The PC Chair is advised to consult the following <a href="http://www.irif.fr/~gc/papers/pc-handbook.pdf">Handbook</a> where she/he can find useful information to organize the selection process. The PC Chair is also advised to add the PC Chair of the following year to the PC, even though she/he will be designated after the CFP are printed and distributed.
 </p>
 <p>
+  PC submissions are welcome and will be handled by the program
+  committee (there is no ERC). The PC chair must not submit.
+  As all discussions will be electronic, the below policy should
+  suffice to ensure a fair evaluation of PC submissions and avoid
+  strong bias in favor or against them. 
+</p>
+<ul>
+  <li>Each PC submission will receive an extra review from an external reviewer.</li>
+  <li>PC submissions are accepted only if:
+  <ul>
+    <li>they do not face strong opposition after the discussion and</li>
+    <li>they are not involved in discussions of relative merits. That is,
+    if there are more papers above the bar than can be accepted (ESOP
+    has a limited number of paper slots determined by ETAPS) and if the
+    group of relatively-weakest papers in this range
+    includes PC submissions, then those get rejected first.
+    </li>
+  </ul>
+  </li>
+</ul>
+ <p>
 See also the <a
 href="http://en.wikipedia.org/wiki/European_Symposium_on_Programming">Wikipedia
 page on ESOP</a>.
