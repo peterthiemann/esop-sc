@@ -90,13 +90,13 @@ mandate has ended. </li>
 </ol>
 The current composition of the Steering Committee is
 <ul>
-<li> <a href="http://www.ccs.neu.edu/home/amal">Amal Ahmed</a> (PC Chair 2018)</li>
+<li> <a href="http://www.ccs.neu.edu/home/amal">Amal Ahmed</a> (PC
+Chair 2018, permanent member since 2020)</li>
 <li> <a href="http://ctp.di.fct.unl.pt/~lcaires/">Luis Caires</a> (PC Chair 2019)</li>
 <li> <a href="http://www.pm.inf.ethz.ch/people/personal/pmueller-pers.html">Peter Müller</a> (PC Chair 2020)</li>
 <li> <a href="http://www.cs.mcgill.ca/~bpientka/">Brigitte Pientka</a>
 (Permament member since 2017)</li>
 <li> <a href="http://www2.informatik.uni-freiburg.de/~thiemann">Peter Thiemann</a> (PC Chair 2016, SC Chair since 2017)</li>
-<li> <a href="http://www.ccs.neu.edu/people/faculty/member/jan-vitek/">Jan Vitek</a> (Permanent member since 2014)</li>
 <li> <a href="http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/">Nobuko Yoshida</a> (PC Chair 2021)</li>
 </ul>
   The Steering Committee of ESOP was created in 1998, when the ETAPS
@@ -179,6 +179,8 @@ page on ESOP</a>.
 
 <section><title>Past members</title>
 <ul>
+  <li> <a href="http://www.ccs.neu.edu/people/faculty/member/jan-vitek/">Jan Vitek</a> (Permanent member 2014-2020)</li>
+  <li> <a href="https://www.doc.ic.ac.uk/~pg/">Philippa Gardner</a> (Permament member since 2017-2019)</li>
   <li> <a href="http://www.irif.fr/~gc">Giuseppe Castagna</a> (SC
   Chair 2011-2017)</li>
   <li> <a href="http://homepages.inf.ed.ac.uk/wadler/">Philip Wadler</a> (Permanent member 2011-2017)</li>
@@ -251,7 +253,7 @@ submission rates</li>
   <title>Past and forthcoming editions</title>
   <table>
 <tr><th>Edition</th>	  <th>Place</th>	                 	<th>Program Chair(s)</th>	<th>Acceptance rate</th></tr>
-<tr><td>ESOP 2022</td><td>Munich, Germany</td><td>TBD</td>	        <td></td></tr>
+<tr><td>ESOP 2022</td><td>Munich, Germany</td>        <td>Ilya Sergey</td>	        <td></td></tr>
 <tr><td>ESOP 2021</td><td>Luxembourg, Luxembourg</td><td>Nobuko Yoshida</td>	        <td></td></tr>
 <tr><td>ESOP 2020</td><td>Dublin, Ireland</td>	        <td>Peter Müller</td>	        <td>27/87</td></tr>
 <tr><td>ESOP 2019</td><td>Prague, Czech Republic</td><td>Luis Caires</td>	        <td>28/86</td></tr>
